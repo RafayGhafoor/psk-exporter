@@ -6,6 +6,12 @@ A utility for extracting known network-ssids passwords (networks to which your d
 
 ```python exp_pas.py```
 
+# Screenshot:
+
+[image.png](https://postimg.org/image/tcswbvmt7/)
+
+`SSID-Passwords removed from the screenshot.`
+
 # Operating System:
 
 Works on Windows OS for now.
