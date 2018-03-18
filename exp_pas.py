@@ -4,6 +4,7 @@ import time
 
 
 def get_ssid_names():
+	'''Get SSID names for the known networks'''
 	cmd_out = subprocess.getoutput('netsh wlan show profiles')  
 	return re.findall(r':\s(.*)', cmd_out)[1:]  # Extract profile names
 
