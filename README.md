@@ -8,7 +8,7 @@ A utility for extracting known network-ssids passwords (networks to which your d
 
 # Screenshot:
 
-[image.png](https://postimg.org/image/tcswbvmt7/)
+![Image](https://s9.postimg.org/fvvxt0chr/image.png)
 
 `SSID-Passwords removed from the screenshot.`
 
